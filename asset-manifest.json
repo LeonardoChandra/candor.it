@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/candor.it/static/css/main.a5df5a14.css",
+    "main.js": "/candor.it/static/js/main.5a2f17f3.js",
+    "index.html": "/candor.it/index.html",
+    "main.a5df5a14.css.map": "/candor.it/static/css/main.a5df5a14.css.map",
+    "main.5a2f17f3.js.map": "/candor.it/static/js/main.5a2f17f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5df5a14.css",
+    "static/js/main.5a2f17f3.js"
+  ]
+}
