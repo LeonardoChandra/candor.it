@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/candor.it/static/css/main.a5df5a14.css",
-    "main.js": "/candor.it/static/js/main.ff53be65.js",
+    "main.css": "/candor.it/static/css/main.393560b3.css",
+    "main.js": "/candor.it/static/js/main.03b81d08.js",
     "index.html": "/candor.it/index.html",
-    "main.a5df5a14.css.map": "/candor.it/static/css/main.a5df5a14.css.map",
-    "main.ff53be65.js.map": "/candor.it/static/js/main.ff53be65.js.map"
+    "main.393560b3.css.map": "/candor.it/static/css/main.393560b3.css.map",
+    "main.03b81d08.js.map": "/candor.it/static/js/main.03b81d08.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5df5a14.css",
-    "static/js/main.ff53be65.js"
+    "static/css/main.393560b3.css",
+    "static/js/main.03b81d08.js"
   ]
 }
